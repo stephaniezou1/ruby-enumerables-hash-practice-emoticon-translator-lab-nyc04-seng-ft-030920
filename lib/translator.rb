@@ -2,7 +2,7 @@
 require "yaml"
 
 def load_library
-
+  emoticons = 
 end
 
 def get_japanese_emoticon
